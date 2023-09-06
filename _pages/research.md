@@ -77,7 +77,7 @@ promoting artificial intelligence industry. Journal of Law and Economic Regulati
 , Kim, G. and Kim, J. (2016). Current trends in high dimensional massive data
 analysis. The Korean Journal of Applied Statistics, 29, 999–1006. [Link to Publication](http://dx.doi.org/10.5351/KJAS.2016.29.6.999)
 24. Kim, Y, Jong, S. J., Jang, W. and Lee, J. (2016). Innovation of technology and social changes
-- quantitative analysis based on patent big data. The Korean Journal of Applied Statistics, 29,
+quantitative analysis based on patent big data. The Korean Journal of Applied Statistics, 29,
 1025–1040. [Link to Publication](http://dx.doi.org/10.5351/KJAS.2016.29.6.1025)
 25. Kim, W., Jang, W. and Song, H. (2016). On the distribution of the movement speed of
 smartphone users. KIISE Transactions on Computing Practices, 22, 567–575. [Link to Publication])(http://dx.doi.org/10.5626/KTCP.2016.22.11.567)
