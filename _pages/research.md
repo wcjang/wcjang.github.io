@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description: 
-nav_order: 2
+nav_order: 3
 ---
 
 **Refereed Journal Articles (Published or In Press: * corresponding author))**
