@@ -6,7 +6,7 @@ description:
 nav_order: 3
 ---
 
-**Refereed Journal Articles (Published or In Press: * corresponding author))**
+Refereed Journal Articles (Published or In Press: * corresponding author))
 
 1. Park, H., Loh, J.-M. and Jang, W.∗
 (2023). Nonparametric inference for symbolic data using
@@ -151,7 +151,7 @@ Wasserman, L. (2003). Nonparametric inference in astrophysics. In Statistical Ch
 Astronomy. Springer, New York, 221-235.
 
 
-**Other Publications**
+Other Publications
 
 53. Jang, W. (2013), Book review of Generalized estimating equations, 2nd edition by Hardin
 and Hilbe. Biometrics 69 799–800 [Link to Publication](http://dx.doi.org/10.1111/biom.12092).
@@ -159,7 +159,7 @@ and Hilbe. Biometrics 69 799–800 [Link to Publication](http://dx.doi.org/10.11
 fibrillation. Heart Rhythm 2 S216-S216.
 
 
-**Work Currently in Progress/Submitted**
+Work Currently in Progress/Submitted
 
 1. Cho, S., Kim, Y.,Lim, J., Choi, H., Park, D. and Jang, W.∗
 . Multiple Testing of One-Sided
