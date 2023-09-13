@@ -14,11 +14,11 @@ Seoul National University
 - 326.311 Mathematical Statistics I (Spring 13, Spring 14, Spring 15, Spring 17, Spring 22)
 - 326.411 Bayesian Statistics and Lab (Spring 14, Fall 16, Fall 17, Fall 21)
 - 326.421 Data Mining Methods and Lab (Fall 13)
-- 326.521 [Advanced Statistical Methods](https://asmsnu.github.io/fall23/about/) (Fall 12, Fall 13, Fall 14, Fall 18, Fall 23)
+- 326.521 [Advanced Statistical Methods](https://asmsnu.github.io) (Fall 12, Fall 13, Fall 14, Fall 18, Fall 23)
 - 326.631 Topics in Applied Statistics: Statistical Network Analysis (Spring 15)
 - 326.637 Advanced Methods in Data Mining (Spring 19)
 - M2480.000600 Advanced Data Analysis for Brain and Cognitive Sciences (Fall 20, Fall 21)
-- M2480.000500 [Statistical Foundations for A.I and Machine Learning](https://sfamsnu.github.io/fall23/) (Fall 21, Fall 23)
+- M2480.000500 [Statistical Foundations for A.I and Machine Learning](https://sfamsnu.github.io) (Fall 21, Fall 23)
 
 
 University of Georgia
