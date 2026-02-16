@@ -24,9 +24,9 @@ nav_order: 5
   [[야구의 승부를 가르는 건 무엇일까?](https://www.youtube.com/watch?v=O8njXm_0M08)]
   [[요즘 야구는 과학야구다](https://www.youtube.com/watch?v=YL5GYxThXyc)]
 
-- **AI, 데이터사이언스 그리고 스몰데이터**
-  Youtube/ 서울대학교 AI 연구원
-  [View recording](https://www.youtube.com/watch?v=JIMJlUy8mBU)
+- **AI, 데이터사이언스 그리고 스몰데이터**   
+  Youtube / 서울대학교 AI 연구원 
+ [View recording](https://www.youtube.com/watch?v=JIMJlUy8mBU)
 
   
 - **슬기로운 통계학자 생활 - 데이터로 대응하는 코로나 19**   
