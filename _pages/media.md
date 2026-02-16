@@ -25,7 +25,7 @@ nav_order: 5
   [[요즘 야구는 과학야구다](https://www.youtube.com/watch?v=YL5GYxThXyc)]
 
 - **AI, 데이터사이언스 그리고 스몰데이터**   
-  Youtube / 서울대학교 AI 연구원, 2021  
+  Youtube / 서울대학교 AI 연구원, 2021
  [View recording](https://www.youtube.com/watch?v=JIMJlUy8mBU)
 
   
