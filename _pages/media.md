@@ -13,19 +13,7 @@ nav_order: 5
   *서울대 사람들 제 76호*, 2024  
   [Link to article](https://people.snu.ac.kr/page/vol76/kr/05.html)
 
-- **Feature / News Coverage**  
-  *Newspaper / Magazine*, Year  
-  [Read more](https://example.com)
-
----
-
-## 📺 Talks & Appearances
-
-- **Event / Program Name**  
-  *Host / Organization*, Year  
-  Topic: Brief description  
-  [Watch / Details](https://example.com)
-
+ 
 ---
 
 ## ▶️ Videos & Online Media
