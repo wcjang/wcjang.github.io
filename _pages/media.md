@@ -20,9 +20,8 @@ nav_order: 5
 
 - **과학으로 본 가을야구**  
   YouTube / 사이언스프렌즈, 2025
-  
-  [[2025 우승팀 한국시리즈 우승팀 예측](https://www.youtube.com/watch?v=Fu7TIoSoC9Q)],
-  [[야구의 승부를 가르는 건 무엇일까?](https://www.youtube.com/watch?v=O8njXm_0M08)],
+  [[2025 우승팀 한국시리즈 우승팀 예측](https://www.youtube.com/watch?v=Fu7TIoSoC9Q)]
+  [[야구의 승부를 가르는 건 무엇일까?](https://www.youtube.com/watch?v=O8njXm_0M08)]
   [[요즘 야구는 과학야구다](https://www.youtube.com/watch?v=YL5GYxThXyc)]
 
 - **AI, 데이터사이언스 그리고 스몰데이터**
@@ -35,7 +34,7 @@ nav_order: 5
  [View recording](https://www.youtube.com/watch?v=kUcjtM3sgdA)
 
 - **디지털인문학과 데이터과학**  
-  Youtube / 카오스 사이언스, 2018 모든 것의 수數다.  
+  Youtube / 카오스 사이언스, 2018 모든 것의 수數다.
   [View recording](https://www.youtube.com/watch?v=hGFjTKbkbYY)
 
 ---
