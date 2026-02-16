@@ -8,37 +8,49 @@ nav_order: 3
 
 **Refereed Journal Articles (Published or In Press: * corresponding author))**
 
-1. Park, H., Loh, J.-M. and Jang, W.∗
+1. Cho, S., Kim, Y.,Lim, J., Choi, H., Park, D. and Jang, W.∗ (2026+). Multiple testing of
+one-sided hypotheses under unknown dependence. To appear in Statistica Sinica. [Link to Publication](https://
+doi.org/10.5705/ss.202024.0022)
+2. Chung, Y., Loh, J. M.. and Jang, W.∗. (2025). Bandwidth selection for the intensity in spatial
+point processes. Spatial Statistics. 70 Article 100928 [Link to Publication](https://doi.org/10.1016/j.spasta.
+2025.100928)
+3. Jeong, W. and Jang, W.∗ . (2025). What is the secret behind lotto numbers? - Reflections
+on the fairness of the lotto and winning numbers. Korean Journal of Applied Statistics. 38
+89–101. [Link to Publication](https://doi.org/10.5351/KJAS.2025.38.1.089)
+4. Kim, B., Jung, S., Lim, J. and Jang, W.∗ (2023) Comparisons of parametric and non-
+parametric methods for analyzing RT-PCR experiment data. Chemometrics and Intelligent
+Laboratory Systems. 242 104892 [Link to Publication](https://doi.org/10.1016/j.chemolab.2023.104982)
+5. Park, H., Loh, J.-M. and Jang, W.∗
 (2023). Nonparametric inference for symbolic data using
-kernel methods. Journal of Nonparametric Statistics . 35 455–473. [Link to Publication](https://doi.org/10.1080/10485252.2022.2160980)
-2. Eom, S. H. and Jang, W.∗
+kernel methods. Journal of Nonparametric Statistics. 35 455–473. [Link to Publication](https://doi.org/10.1080/10485252.2022.2160980)
+6. Eom, S. H. and Jang, W.∗
 (2022). How can the post-war reconstruction project be carried out
 in a stable manner? - Terrorism prediction using a Bayesian hierarchical model. The Korean
 Journal of Applied Statistics. 35 603–617. [Link to Publication](https://doi.org/10.5351/KJAS.2022.35.5.603)
-3. Kim, B., Kim, S., Jang, W., Jung, S. and Lim, J. (2022). Comments on ’Online estimation
+7. Kim, B., Kim, S., Jang, W., Jung, S. and Lim, J. (2022). Comments on ’Online estimation
 of the case fatality rate using a run-off triangle data approach: An application to the Korean
 MERS outbreak in 2015’ by Sungim Lee and Johan Lim. Statistics in Medicine. 41 1728–1732.
 [Link to Publication](https://onlinelibrary.wiley.com/doi/10.1002/sim.9123).
-4. Kim, J and Jang, W. (2022). A generalized Agresti-Coull type confidence interval for a
+8. Kim, J and Jang, W. (2022). A generalized Agresti-Coull type confidence interval for a
 binomial proportion. Journal of the Korean Statistical Society. 51 356–377. [Link to Publication](https://doi.org/10.1007/s42952-021-00143-3).
-5. Kim, S,. Bang, J.-I., Boo, D., Kim, B., Choi, I. Y., Ko, S. Yoo, I. R., Kim, K., Kim, J., Joo, Y.,
+9. Kim, S,. Bang, J.-I., Boo, D., Kim, B., Choi, I. Y., Ko, S. Yoo, I. R., Kim, K., Kim, J., Joo, Y.,
 Ryoo, H. G., Paeng, J. C., Park, J. M., Jang, W., Kim, B., Chung, Y.,Yang, D., Yoo, S. and
 Lee, H.-Y. (2022). Second primary malignancy risk in thyroid cancer and matched patients
 with and without radioiodine therapy analysis from the observational health data sciences and
 informatics, European Journal of Nuclear Medicine and Molecular Imaging. 49 3547–3556.
 [Link to Publication](https://link.springer.com/article/10.1007/s00259-022-05779-9).
-6. Cho, S., Lim, J. and Jang, W. (2022). How many people participated in candlelight protests?
+10. Cho, S., Lim, J. and Jang, W. (2022). How many people participated in candlelight protests?
 Counting the size of a dynamic crowd. Journal of Applied Statistics. 49 1890–1899 [Link to Publication](https://doi.org/10.1080/02664763.2021.1871591).
-7. Kim. J., Loh, J. M. and Jang, W.∗
+11. Kim. J., Loh, J. M. and Jang, W.∗
 (2021). Generalized bagging. Journal of the Korean
 Statistical Society. 50 1219–1237. [Link to Publication](https://doi.org/10.1007/s42952-021-00114-8).
-8. Kim, B., Kim, S., Jang, W. ∗
+12. Kim, B., Kim, S., Jang, W. ∗
 , Jung, S. and Lim, J. (2021). Estimation of the case fatality
 rate based on stratification for the COVID-19 outbreak. PLoS ONE. 16 e0246921. [Link to Publication](https://doi.org/10.1371/journal.pone.0246921).
-9. Chung, K H., Lee, J.-C., Lee, J., Cho, I.-K., Kim, J., Jang, W., Yoo, B. C. and Hwang,
+13. Chung, K H., Lee, J.-C., Lee, J., Cho, I.-K., Kim, J., Jang, W., Yoo, B. C. and Hwang,
 J.-H. (2020). Serum fibrinogen as a diagnostic and prognostic biomarker for pancreatic ductal
 adenocarcinoma. Panceatology. 20 1465–1471. [Link to Publication](https://doi.org/10.1016/j.pan.2020.06).
-010.
+14.
 10. Jeong, S.-O., Choi, D. and Jang, W.∗
 (2020) A semiparametric mixture method for local false
 discovery rate estimation from multiple studies. Annals of Applied Statistics. 14 1242–1257.
