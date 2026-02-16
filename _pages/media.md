@@ -41,6 +41,9 @@ nav_order: 5
 
 ## 📝 대학신문 기고문 
 
+- **마지막 축사**  
+  *대학신문, 관악시평*, 2026년 (투고예정)  [Read article](https://wcjang.github.io/assets/pdf/last_wedding_speech.pdf)
+ 
  
 - **거짓말, 새빨간 거짓말, 그리고 통계학**  
   *대학신문, 특별기고*, 2024년  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
