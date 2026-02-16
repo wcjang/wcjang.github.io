@@ -9,13 +9,13 @@ nav_order: 3
 
 Seoul National University
 
-- E11.121 It's the Statistics: Data Literacy in the Era of Big Data (Spring 24, Spring 25, Spring 26)
+- E11.121 [It's the Statistics: Data Literacy in the Era of Big Data](https://https://wcjang.github.io/assets/pdf/syllabus_data_literacy_2026.pdf)  (Spring 24, Spring 25, Spring 26)
 - 033.019 Introduction to Statistics (Spring 18, Spring 20, Spring 21)
 - 053.001 Freshman Seminar (Fall 14, Fall 18, Spring 19)
 - 326.311 Mathematical Statistics I (Spring 13, Spring 14, Spring 15, Spring 17, Spring 22)
 - 326.411 Bayesian Statistics and Lab (Spring 14, Fall 16, Fall 17, Fall 21)
 - 326.421 Data Mining Methods and Lab (Fall 13)
-- 326.521 [Advanced Statistical Methods](https://asmsnu.github.io) (Fall 12, Fall 13, Fall 14, Fall 18, Fall 23, Fall 24, Fall 25)
+- 326.521 [Advanced Statistical Methods](https://https://wcjang.github.io/assets/pdf/syllabus_asm_2025.pdf) (Fall 12, Fall 13, Fall 14, Fall 18, Fall 23, Fall 24, Fall 25)
 - 326.631 Topics in Applied Statistics: Statistical Network Analysis (Spring 15)
 - 326.637 Advanced Methods in Data Mining (Spring 19)
 - M2480.000600 Advanced Data Analysis for Brain and Cognitive Sciences (Fall 20, Fall 21)
