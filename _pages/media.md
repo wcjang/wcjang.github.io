@@ -40,7 +40,20 @@ nav_order: 5
 
 ---
 
-## 📝 Articles & Contributions
+## 📝 대학신문 기고문 
+
+ 
+- **거짓말, 새빨간 거짓말, 그리고 통계학**  
+  *대학신문, 특별기고*, 2024년  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
+
+
+- **바른손 카드에 얽힌 단상**  
+  *대학신문, 관악시평*, 2017년    [Read article](https://www.snunews.com/news/articleView.html?idxno=17515)
+
+
+---
+
+## 📝 신문 칼럼
 
 - **쇼미더머니를 보면 일찍 죽는다구요?**  
   *한국일보, 생활 속, 수학의 정석*, 2026년 2월 13일  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
@@ -77,14 +90,6 @@ nav_order: 5
 
 - **엉터리 여론조사 구별, '5% 통계 규칙'**  
   *한국일보, 생활 속, 수학의 정석*, 2025년 4월 11일  [Read article](https://www.hankookilbo.com/news/article/A2025040913410001130)
-
- 
-- **거짓말, 새빨간 거짓말, 그리고 통계학**  
-  *대학신문, 특별기고*, 2024년  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
-
-
-- **바른손 카드에 얽힌 단상**  
-  *대학신문, 관악시평*, 2017년    [Read article](https://www.snunews.com/news/articleView.html?idxno=17515)
 
 
 
