@@ -19,7 +19,7 @@ Seoul National University
 - 326.631 Topics in Applied Statistics: Statistical Network Analysis (Spring 15)
 - 326.637 Advanced Methods in Data Mining (Spring 19)
 - M2480.000600 Advanced Data Analysis for Brain and Cognitive Sciences (Fall 20, Fall 21)
-- M2480.000500 [Statistical Foundations for A.I and Machine Learning](https://sfamsnu.github.io) (Fall 21, Fall 23)
+- M2480.000500 [Statistical Foundations for A.I and Machine Learning](https://sfamsnu.github.io) (Fall 21, Fall 23, Fall 24)
 
 
 University of Georgia
