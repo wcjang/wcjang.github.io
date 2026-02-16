@@ -171,10 +171,6 @@ fibrillation. Heart Rhythm 2 S216-S216.
 
 **Work Currently in Progress/Submitted**
 
-1. Cho, S., Kim, Y.,Lim, J., Choi, H., Park, D. and Jang, W.∗
-. Multiple Testing of One-Sided
-Hypotheses under General Dependence.Submitted to Electronic Journal of Statistics.
-2. Kim, B., Jung, S., Lim, J. and Jang, W.∗
-. Comparisons of parametric and non-parametric
-methods for analyzing RT-PCR experiment data. Submitted to Chemometrics and Intelligent
-Systems.
+1. Kim, J. and Jang, W.*. Cauchy Combination Test with Thresholding Under
+Arbitrary Dependency Structure. Submitted to Statistica Sinica.
+ 
