@@ -42,8 +42,8 @@ nav_order: 5
 
 ## 📝 Articles & Contributions
 
-- **Article / Op-ed Title**  
-  *Publication / Platform*, Year  
-  [Read article](https://example.com)
+- **쇼미더머니를 보면 일찍 죽는다구요?**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 2월 13일  
+  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
 
 ---
