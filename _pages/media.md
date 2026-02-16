@@ -9,9 +9,9 @@ nav_order: 5
 
 ## 🎙 Interviews & Press
 
-- **Interview Title / Article Name**  
-  *Outlet / Publisher*, Year  
-  [Link to article](https://example.com)
+- **통계로 세상을 만나다. **  
+  *서울대 사람들 제 76호*, 2024  
+  [Link to article](https://people.snu.ac.kr/page/vol76/kr/05.html)
 
 - **Feature / News Coverage**  
   *Newspaper / Magazine*, Year  
