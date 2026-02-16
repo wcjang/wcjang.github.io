@@ -9,11 +9,9 @@ nav_order: 3
 **Refereed Journal Articles (Published or In Press: * corresponding author))**
 
 1. Cho, S., Kim, Y.,Lim, J., Choi, H., Park, D. and Jang, W.∗ (2026+). Multiple testing of
-one-sided hypotheses under unknown dependence. To appear in Statistica Sinica. [Link to Publication](https://
-doi.org/10.5705/ss.202024.0022)
+one-sided hypotheses under unknown dependence. To appear in Statistica Sinica. [Link to Publication](https://doi.org/10.5705/ss.202024.0022)
 2. Chung, Y., Loh, J. M.. and Jang, W.∗. (2025). Bandwidth selection for the intensity in spatial
-point processes. Spatial Statistics. 70 Article 100928 [Link to Publication](https://doi.org/10.1016/j.spasta.
-2025.100928)
+point processes. Spatial Statistics. 70 Article 100928 [Link to Publication](https://doi.org/10.1016/j.spasta.2025.100928)
 3. Jeong, W. and Jang, W.∗ . (2025). What is the secret behind lotto numbers? - Reflections
 on the fairness of the lotto and winning numbers. Korean Journal of Applied Statistics. 38
 89–101. [Link to Publication](https://doi.org/10.5351/KJAS.2025.38.1.089)
