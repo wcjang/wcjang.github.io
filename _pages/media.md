@@ -43,16 +43,49 @@ nav_order: 5
 ## 📝 Articles & Contributions
 
 - **쇼미더머니를 보면 일찍 죽는다구요?**  
-  *한국일보, 생활 속, 수학의 정석*, 2025년 2월 13일  
-  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
+  *한국일보, 생활 속, 수학의 정석*, 2026년 2월 13일  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
 
+- **교통단속 카메라의 사과예방효과 측정법**  
+  *한국일보, 생활 속, 수학의 정석*, 2026년 1월 16일  [Read article](https://www.hankookilbo.com/news/article/A2026011416460000630)
+
+- **누가누가 잘하나?**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 12월 19일  [Read article](https://www.hankookilbo.com/news/article/A2025121713280000631)
+
+- **바보야, 문제는 데이터 문해력이야!**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 11월 21일  [Read article](https://www.hankookilbo.com/news/article/A2025121713280000631)
+
+- **백신 음모론자 장관과 공중보건의 위기**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 10월 24일  [Read article](https://www.hankookilbo.com/news/article/A2025102217140003862)
+
+- **한국에는 치킨집이 몇 개나 있을까?**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 9월 26일  [Read article](https://www.hankookilbo.com/news/article/A2025092409170003395)
+
+- **셰익스피어가 쓴 걸까? 수학으로 감별한다**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 8월 29일  [Read article](https://www.hankookilbo.com/news/article/A2025082711120004165)
+
+- **유리 겔러를 기억하시나요?**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 8월 1일  [Read article](https://www.hankookilbo.com/news/article/A2025073015080002665)
+
+- **통계학적으로 '가장 좋은' 로또 전략**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 7월 4일  [Read article](https://www.hankookilbo.com/news/article/A2025070310250002109)
+
+- **세상에 이런 일이..**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 6월 6일  [Read article](https://www.hankookilbo.com/news/article/A2025060421400002414)
+
+- **자세히 보아야... 너도 그렇다**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 5월 9일  [Read article](https://www.hankookilbo.com/news/article/A2025050809450000128)
+
+- **엉터리 여론조사 구별, '5% 통계 규칙'**  
+  *한국일보, 생활 속, 수학의 정석*, 2025년 4월 11일  [Read article](https://www.hankookilbo.com/news/article/A2025040913410001130)
+
+ 
 - **거짓말, 새빨간 거짓말, 그리고 통계학**  
-  *대학신문, 특별기고*, 2024년  
-  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
+  *대학신문, 특별기고*, 2024년  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
+
 
 - **바른손 카드에 얽힌 단상**  
-  *대학신문, 관악시평*, 2017년  
-  [Read article](https://www.snunews.com/news/articleView.html?idxno=17515)
+  *대학신문, 관악시평*, 2017년    [Read article](https://www.snunews.com/news/articleView.html?idxno=17515)
+
 
 
 
