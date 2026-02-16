@@ -46,4 +46,14 @@ nav_order: 5
   *한국일보, 생활 속, 수학의 정석*, 2025년 2월 13일  
   [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
 
+- **거짓말, 새빨간 거짓말, 그리고 통계학**  
+  *대학신문, 특별기고*, 2024년  
+  [Read article](https://www.snunews.com/news/articleView.html?idxno=33396)
+
+- **바른손 카드에 얽힌 단상**  
+  *대학신문, 관악시평*, 2017년  
+  [Read article](https://www.snunews.com/news/articleView.html?idxno=17515)
+
+
+
 ---
