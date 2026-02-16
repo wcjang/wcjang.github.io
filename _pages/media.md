@@ -9,14 +9,14 @@ nav_order: 5
 
 ## 🎙 Interviews & Press
 
+- **레 미제라블에서 Last Lecture까지**  
+  *서울대 중앙도서관  지식인의 서재*, 2026  
+  [Link to article](https://likesnu.snu.ac.kr/usr/intro/systemGuide/selectSystemGuideView.do?ty=recommend&searchSysUseGuideId=75)
+  
 - **통계로 세상을 만나다**  
   *서울대 사람들 제 76호*, 2024  
   [Link to article](https://people.snu.ac.kr/page/vol76/kr/05.html)
 
-
-- **레 미제라블에서 Last Lecture까지**  
-  *서울대 중앙도서관  지식인의 서재*, 2026  
-  [Link to article](https://likesnu.snu.ac.kr/usr/intro/systemGuide/selectSystemGuideView.do?ty=recommend&searchSysUseGuideId=75)
 
  
 ---
