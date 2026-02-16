@@ -42,7 +42,7 @@ nav_order: 5
 ## 📝 대학신문 기고문 
 
 - **마지막 축사**  
-  *대학신문, 관악시평*, 2026년 (투고예정)  [Read article](https://wcjang.github.io/assets/pdf/last_wedding_speech.pdf)
+  *대학신문, 관악시평*, 2026년 (투고예정)  [Read article](https://wcjang.github.io/posts/2025-01-01-last-wedding-speech.md)
  
  
 - **거짓말, 새빨간 거짓말, 그리고 통계학**  
