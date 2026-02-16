@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "마지막 축사"
-date: 2025-01-01
+date: 2026-02-16
+permalink: /last-speech/
 categories: [wedding, speech]
 tags: [결혼식, 축사, Last Lecture]
 ---
