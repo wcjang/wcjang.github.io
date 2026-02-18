@@ -6,6 +6,10 @@ description: I have taught the following courses.
 nav: true
 nav_order: 3
 ---
+Online Courses
+
+- K-MOOC [Learning from Data](https://github.com/wcjang/K-MOOC?tab=readme-ov-file)
+- SNUON [Introduction to Statistics](https://etl.snu.ac.kr/courses/67ac1deb943b8e6ce94d5a3c)  
 
 Seoul National University
 
@@ -20,6 +24,7 @@ Seoul National University
 - 326.637 Advanced Methods in Data Mining (Spring 19)
 - M2480.000600 Advanced Data Analysis for Brain and Cognitive Sciences (Fall 20, Fall 21)
 - M2480.000500 Statistical Foundations for A.I and Machine Learning (Fall 21, Fall 23, Fall 24)
+
 
 
 University of Georgia
