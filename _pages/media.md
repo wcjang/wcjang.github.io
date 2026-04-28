@@ -65,7 +65,7 @@ nav_order: 5
 - **쇼미더머니를 보면 일찍 죽는다구요?**  
   *한국일보, 생활 속, 수학의 정석*, 2026년 2월 13일  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
 
-- **교통단속 카메라의 사과예방효과 측정법**  
+- **교통단속 카메라의 사고예방효과 측정법**  
   *한국일보, 생활 속, 수학의 정석*, 2026년 1월 16일  [Read article](https://www.hankookilbo.com/news/article/A2026011416460000630)
 
 - **누가누가 잘하나?**  
