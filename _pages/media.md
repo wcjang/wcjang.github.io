@@ -24,6 +24,7 @@ nav_order: 5
 ## ▶️ Videos & Online Media
 
 - **로또 조작론 1등 당첨 비결은 실존할까?**
+  Youtube / 서울대국가전략위원회 코로나19 사회연구팀, 2020
   Youtube / 샤로잡다 시즌 2, 2026
  [View recording](https://www.youtube.com/watch?v=-fy_KB_KlQk)
 
