@@ -78,7 +78,7 @@ nav_order: 5
   *한국일보, 생활 속, 수학의 정석*, 2025년 12월 19일  [Read article](https://www.hankookilbo.com/news/article/A2025121713280000631)
 
 - **바보야, 문제는 데이터 문해력이야!**  
-  *한국일보, 생활 속, 수학의 정석*, 2025년 11월 21일  [Read article](https://www.hankookilbo.com/news/article/A2025121713280000631)
+  *한국일보, 생활 속, 수학의 정석*, 2025년 11월 21일  [Read article](https://www.hankookilbo.com/news/article/A2025111914490005917)
 
 - **백신 음모론자 장관과 공중보건의 위기**  
   *한국일보, 생활 속, 수학의 정석*, 2025년 10월 24일  [Read article](https://www.hankookilbo.com/news/article/A2025102217140003862)
