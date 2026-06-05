@@ -68,6 +68,9 @@ nav_order: 5
 
 ## 📝 신문 칼럼
 
+- **정보의 쓰나미 시대, 데이터 문해력으로 살아남기**  
+  *동아일보, 오피니언*, 2026년 6월 5일  [Read article](https://www.donga.com/news/Opinion/article/all/20260604/134052878/2)
+
 - **쇼미더머니를 보면 일찍 죽는다구요?**  
   *한국일보, 생활 속, 수학의 정석*, 2026년 2월 13일  [Read article](https://www.hankookilbo.com/news/article/A2026021208180002731)
 
