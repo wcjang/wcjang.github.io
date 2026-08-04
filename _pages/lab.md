@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 연구실 소개
+title: Lab
 permalink: /lab/
 description: 통계 방법론과 과학·사회문제의 데이터 분석을 연구합니다.
 nav: true
