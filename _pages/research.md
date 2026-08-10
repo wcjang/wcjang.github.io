@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab
-permalink: /lab/
+title: Research
+permalink: /Research/
 description: 통계 방법론과 과학·사회문제의 데이터 분석을 연구합니다.
 nav: true
 nav_order: 4
