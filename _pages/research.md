@@ -7,52 +7,54 @@ nav: true
 nav_order: 4
 ---
 
-우리 연구실은 복잡한 과학·사회 현상을 이해하고 실제 문제를 해결하기 위한 통계 방법론을 연구합니다. 특히 고차원·대규모 데이터에서 나타나는 의존성, 불확실성, 복잡한 구조를 효과적으로 다룰 수 있는 새로운 통계적 추론 방법과 계산 도구를 개발하는 데 관심을 두고 있습니다. 천문학, 입자물리학, 신경과학, 바이오메카닉스, 역학, 디지털 인문학, 계산사회과학 등 다양한 분야의 연구자들과 협력하며, 과학적 질문을 통계적 문제로 다시 정의하고 재현 가능한 분석을 통해 답을 찾고자 합니다. 현재 연구실에서 다루는 주요 연구분야는 다음과 같습니다. 
+Research Overview
+
+We develop statistical methodologies for understanding complex scientific and social phenomena and addressing real-world problems. We are particularly interested in developing new methods of statistical inference and computational tools that can effectively handle the dependence, uncertainty, and complex structure encountered in high-dimensional, large-scale data.
+
+We collaborate with researchers across a wide range of fields—including astronomy, particle physics, neuroscience, biomechanics, epidemiology, digital humanities, and computational social science—to reformulate scientific questions as statistical problems and answer them through reproducible analysis. Our main research areas are described below.
+
+### Multiple Testing and False Discovery Rates
+
+We study problems that require testing a large number of hypotheses simultaneously, as arise in genomics, imaging, and large-scale experimental data. Our recent work focuses on multiple-testing procedures and Cauchy combination tests that remain reliable even when test statistics exhibit complex or unknown dependence. We also develop semi-parametric methods for estimating local false discovery rates (local FDRs) by combining information across multiple studies and datasets. In addition to theoretical methodology, we pursue software and reproducible analytical tools that can be used by applied researchers.
+
+### Modern Dependence Measures
+
+Relationships among variables often cannot be adequately described by linear correlation alone. High-dimensional and complex scientific data may exhibit nonlinear, local, and asymmetric dependence structures. We study modern dependence measures that can effectively detect and quantify these diverse relationships. We investigate their theoretical properties and associated inferential procedures, with the goal of applying them to independence testing, variable selection, clustering, and the exploration of complex data structures.
+
+### Sequential Testing and Quality Control
+
+In steel and semiconductor manufacturing, high-frequency sensor readings, functional profiles, images, and inspection results accumulate continuously, while quality labels may arrive late or be observed only partially. Moreover, data distributions can change over time because of changes in products, equipment, maintenance, or raw materials. In these settings, it is important not only to achieve predictive accuracy at a single point in time, but also to ensure that false alarms do not accumulate during repeated monitoring, predictive uncertainty is properly assessed, and root-cause analysis following an alert is reliable.
+
+We study reliable inference for data streams in which dependence, distributional shifts, missingness, and delayed labels coexist. Our work combines sequential testing, e-values and e-processes, change-point detection, online conformal prediction, structured reduction, and post-selection inference. Our goal is to build a layer of statistical reliability on top of conventional statistical process-control or AI-based anomaly-detection models—controlling alert errors regardless of when monitoring stops and consistently quantifying uncertainty throughout prediction, alerting, and root-cause investigation.
+
+Our primary applications are quality control in steel and semiconductor manufacturing. We jointly evaluate prediction intervals, anomaly alerts, and error rates for candidate root causes using steel-process thickness and shape profiles, surface defects, and semiconductor equipment sensors, virtual metrology, wafer maps, and inspection images. We aim to implement our research through reproducible simulation studies, public benchmarks, and R/Python software.
+
+### Shrinkage Estimation and Statistical Learning
+
+In high-dimensional settings, individual models and estimators can become unstable under small changes in the data. To address this issue, we study James–Stein shrinkage estimation, model aggregation, bagging, and ensemble methods.
+
+Our central objective is to effectively combine information from multiple candidate estimators and predictive models, improving predictive accuracy and stability while enabling reliable statistical decision-making in settings with complex data structures.
+
+### Functional Data Analysis and Biomechanics
+
+Movements, postures, forces, and joint trajectories measured continuously over time should often be understood not as individual observations, but as functions or curves. Our laboratory uses functional data analysis to study the complex patterns in such biomechanical data.
+
+We develop methods to compare individual and group differences during movement, extract dominant movement patterns, and identify functional features associated with disease, injury, and training effects. Through functional classification, dimension reduction, registration, clustering, and uncertainty quantification, we aim to provide interpretable and reproducible statistical evidence for biomechanics research.
+
+### Spatial Statistics
+
+We study data for which spatial location and interaction are essential, including the distribution of stars and galaxies, ecological and environmental data, and regional population data. Our work develops statistical models that estimate intensity functions and correlation structures for spatial point processes, select bandwidths, and account for regional heterogeneity and dependence.
 
 
-### 고차원 다중검정과 오발견률
+### Statistical Applications to Scientific and Social Problems
 
-유전체, 영상, 대규모 실험자료처럼 수많은 가설을 동시에 검정해야 하는 문제를 연구합니다. 최근에는 검정통계량 사이에 복잡하거나 알려지지 않은 의존성이 존재하는 상황에서도 안정적으로 작동하는 다중검정 방법과 Cauchy 결합검정 방법을 연구하고 있습니다. 또한 여러 연구와 자료에서 얻어진 정보를 함께 활용하는 local false discovery rate(local FDR) 추정하기 위한 준모수 방법을 연구하고 있습니다. 이론적 방법론뿐 아니라 실제 연구자가 사용할 수 있는 소프트웨어와 재현 가능한 분석 도구의 개발도 함께 추진하고 있습니다.
+We seek to apply new statistical methods to real-world problems and to turn methodological questions that arise in applications into new research directions. Our recent work addresses diverse topics, including particle physics; analysis of constitutional court justices’ ideological tendencies and wildlife population estimation.
 
+## Opportunities for Students
 
-### 현대적 의존성 측도
+Our laboratory is seeking **undergraduate research interns and master’s and doctoral students** who are interested in statistical methodology and data-driven problem solving.
 
-변수 사이의 관계는 선형 상관계수만으로 충분히 설명되지 않는 경우가 많습니다. 고차원 자료나 복잡한 과학자료에서는 비선형적이고 국소적이며 비대칭적인 의존구조가 나타날 수 있습니다. 우리 연구실은 이러한 다양한 관계를 효과적으로 발견하고 정량화할 수 있는 현대적 의존성 측도(modern dependence measure)를 연구합니다. 새로운 의존성 측도의 이론적 성질과 통계적 추론 방법을 규명하고, 독립성 검정, 변수선택, 군집분석 및 복잡한 데이터 구조의 탐색에 활용하는 것을 목표로 합니다.
+Undergraduate research interns can gain experience with the full research process under supervision, including reading papers, data analysis, simulation, and programming. Graduate students can develop research topics aligned with their interests in multiple testing, statistical inference for particle physics, modern dependence measures, sequential testing, conformal prediction, change-point detection, quality control, statistical learning, functional data analysis, biomechanics, or spatial statistics.
 
-### 순차적 검정과 품질관리
-
-철강·반도체 제조공정에서는 고빈도 센서, 기능형 프로파일, 영상 및 검사결과가 연속적으로 축적되지만 품질 라벨은 늦게 도착하거나 일부만 관측됩니다. 또한 제품, 설비, 정비 및 원재료의 변화로 데이터의 분포가 시간에 따라 달라질 수 있습니다. 이러한 환경에서는 한 시점의 예측 정확도뿐 아니라 반복적인 감시 과정에서 거짓경보가 누적되지 않는지, 예측의 불확실성이 적절히 평가되는지, 경보 이후의 원인 분석을 신뢰할 수 있는지가 중요합니다.
-
-우리 연구실은 순차검정(sequential testing), e-value와 e-process, 변화점 탐지, online conformal prediction, 구조적 축소 및 선택 후 추론을 결합하여 의존성, 분포 변화, 결측 및 지연 라벨이 공존하는 데이터 스트림을 위한 신뢰 가능한 추론 방법을 연구합니다. 목표는 기존 통계적 공정관리 또는 AI 이상탐지 모형 위에 통계적 신뢰성 계층을 구축하여, **언제 분석을 중단하더라도** 경보 오류를 관리하고 예측–경보–원인규명의 불확실성을 일관되게 정량화하는 것입니다.
-
-주요 응용 분야는 철강과 반도체 제조 품질관리입니다. 철강 공정의 두께·형상 프로파일과 표면결함, 반도체 공정의 장비센서·virtual metrology·웨이퍼맵·검사영상 등을 대상으로 예측구간, 이상경보 및 원인 후보의 오류율을 함께 평가합니다. 연구 결과는 재현 가능한 모의실험, 공개 benchmark 및 R/Python 소프트웨어로 구현하는 것을 지향합니다.
-
-### 축소추정과 통계적 학습
-
-고차원 자료에서는 개별 모형이나 추정량이 자료의 작은 변화에도 불안정해질 수 있습니다. 이를 개선하기 위해 James–Stein 축소추정, 모형 결합, bagging 및 앙상블 방법을 연구합니다.
-
-여러 후보 추정량과 예측모형의 정보를 효과적으로 결합하여 예측 정확도와 안정성을 높이고, 데이터의 구조가 복잡한 상황에서도 신뢰할 수 있는 통계적 의사결정을 가능하게 하는 것이 주요 목표입니다.
-
-### 함수형 자료분석과 바이오메카닉스
-
-시간에 따라 연속적으로 측정되는 움직임, 자세, 힘과 관절의 변화는 개별 관측값이 아니라 하나의 함수 또는 곡선으로 이해할 필요가 있습니다. 우리 연구실은 함수형 자료분석(functional data analysis)을 이용하여 이러한 바이오메카닉스 자료의 복잡한 변화 양상을 분석합니다.
-
-동작 과정에서 나타나는 개인 및 집단 간 차이를 비교하고, 움직임의 주요 패턴을 추출하며, 질환·부상·훈련 효과와 관련된 기능적 특성을 파악하는 방법을 연구합니다. 함수형 분류, 차원축소, 정렬, 군집화 및 불확실성 평가를 통해 바이오메카닉스 연구에 해석 가능하고 재현 가능한 통계적 근거를 제공하는 것을 목표로 합니다.
-
-### 공간통계와 복잡한 구조의 데이터
-
-별과 은하의 분포, 생태·환경자료, 지역별 인구자료와 같이 공간적 위치와 상호작용이 중요한 데이터를 연구합니다. 공간점과정의 강도함수와 상관구조 추정, 대역폭 선택, 지역 간 이질성과 의존성을 반영하는 통계모형을 개발하고 있습니다.
-
-이와 함께 함수형 자료, 네트워크 및 군집자료 등 전통적인 표와 같은 형태로 표현하기 어려운 복잡한 데이터를 분석하는 방법에도 관심을 두고 있습니다.
-
-### 과학 및 사회문제에 대한 통계 응용
-
-새로운 통계 방법을 실제 문제에 적용하고, 응용 과정에서 발견되는 새로운 방법론적 질문을 다시 연구로 발전시키는 것을 지향합니다. 최근에는 입자물리학, 철강·반도체 제조 품질관리, 헌법재판관 성향분석,  바이오메카닉스, 야생동물개체수 추정 등 다양한 주제를 다루고 있습니다.
-
+We welcome students who wish to study new methods in depth and take on the compelling questions posed by real data. Students interested in research participation or graduate study are encouraged to contact us by email with a brief self-introduction and their research interests.
  
-
-우리 연구실에서는 통계 방법론과 데이터 기반 문제 해결에 관심 있는 **학부 연구인턴과 석·박사과정 대학원생을 모집합니다.**
-
-학부 연구인턴은 지도 아래 논문 읽기, 데이터 분석, 시뮬레이션 및 프로그래밍을 경험하며 통계 연구의 전 과정을 배울 수 있습니다. 대학원생은  다중검정, 입자물리학을 위한 통계적 추론, 현대적 의존성 측도, 순차검정, conformal prediction, 변화점 탐지, 품질관리, 통계적 학습, 함수형 자료분석, 바이오메카닉스 또는 공간통계 가운데 자신의 관심에 맞는 연구주제를 발전시킬 수 있습니다.
-
-새로운 방법을 깊이 있게 공부하고 실제 데이터가 제기하는 흥미로운 질문에 함께 도전하고 싶은 학생을 환영합니다. 연구 참여나 대학원 진학에 관심 있는 학생은 간단한 자기소개와 관심 연구 분야를 포함하여 이메일로 문의하기 바랍니다.
