@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Research Overview
+### Research Overview ###
 
 We develop statistical methodologies for understanding complex scientific and social phenomena and addressing real-world problems. We are particularly interested in developing new methods of statistical inference and computational tools that can effectively handle the dependence, uncertainty, and complex structure encountered in high-dimensional, large-scale data.
 
